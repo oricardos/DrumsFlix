@@ -2,7 +2,8 @@ import React from 'react'
 import Logo from '../../assets/img/Logo.png'
 // import Profile from '../../assets/img/Profile.jpg'
 import './Menu.css'
-import ButtonLink from './components/ButtonLink'
+import Button from '../Button'
+// import ButtonLink from './components/ButtonLink'
 
 function Menu() {
     return (
@@ -33,9 +34,9 @@ function Menu() {
                 <img className="Profile" src={Profile} alt="Photo Profile"/>
             </div> */}
 
-            <ButtonLink className="ButtonLink" href="/">
+            <Button as='a' className="ButtonLink" href="/">
                 Novo Vídeo
-            </ButtonLink>
+            </Button>
         </nav>
     )
 }
