@@ -1,7 +1,7 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
+      "titulo": "Groove",
       "link": "https://www.alura.com.br/formacao-front-end",
       "cor": "#6BD1FF",
       "link_extra": {
@@ -14,16 +14,16 @@
           "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "20 Minute Backing Track - Groove Rock Drum Beat 95 BPM",
+          "url": "https://www.youtube.com/watch?v=85ZptB9kgaM"
         },
         {
           "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "url": "https://www.youtube.com/watch?v=S9G5Y1vElrs"
         },
         {
           "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "url": "https://www.youtube.com/watch?v=2ewJbvsAiLI"
         },
         {
           "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
@@ -44,7 +44,7 @@
       ]
     },
     {
-      "titulo": "Back End",
+      "titulo": "Gospel Chops",
       "cor": "#00C86F",
       "link_extra": {
         "text": "Cursos de Back End na Alura",
@@ -74,7 +74,7 @@
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
+      "titulo": "Exercícios",
       "cor": "#9cd33b",
       "link_extra": {
         "text": "Cursos de Data Science na Alura",
@@ -100,7 +100,7 @@
       ]
     },
     {
-      "titulo": "Filmes",
+      "titulo": "Vídeo Aula",
       "cor": "orange",
       "videos": [
         {
@@ -122,7 +122,7 @@
       ]
     },
     {
-      "titulo": "Games",
+      "titulo": "Covers",
       "cor": "red",
       "link_extra": {
         "text": "Formação de Jogos na Alura",
