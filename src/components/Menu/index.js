@@ -1,4 +1,5 @@
 import React from 'react'
+import { Link } from 'react-router-dom'
 import Logo from '../../assets/img/Logo.png'
 // import Profile from '../../assets/img/Profile.jpg'
 import './Menu.css'
@@ -8,33 +9,11 @@ import Button from '../Button'
 function Menu() {
     return (
         <nav className="Menu">
-            <a href="/">
+            <Link to="/">
                 <img className="Logo" src={Logo} alt="Logo DrumsFlix"/>
-            </a>
+            </Link>
 
-            {/* <ul className="MenuItems">
-                <li>
-                    <a className="" href="/">
-                        Add New
-                    </a>
-                </li>
-                <li>
-                    Pratices
-                </li>
-                <li>
-                    Groove
-                </li>
-                <li>
-                    Favorite
-                </li>
-            </ul>
-
-            <div className="ProfileArea">
-                <i class="fas fa-search"></i>
-                <img className="Profile" src={Profile} alt="Photo Profile"/>
-            </div> */}
-
-            <Button as='a' className="ButtonLink" href="/">
+            <Button as={Link} className="ButtonLink" to="/cadastro/video">
                 Novo Vídeo
             </Button>
         </nav>
