@@ -3,105 +3,105 @@
     {
       "titulo": "Groove",
       "link": "https://www.alura.com.br/formacao-front-end",
-      "cor": "#6BD1FF",
+      "cor": "#4C86A8",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
+        "text": "Segura o groove",
         "url": "https://www.alura.com.br/cursos-online-front-end"
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "Aprenda a tocar bateria, crie seu próprio estilo. Aprenda a criar grooves, criar viradas e Frases.",
+          "url": "https://www.youtube.com/watch?v=8qMazXHXnAU"
         },
         {
-          "titulo": "20 Minute Backing Track - Groove Rock Drum Beat 95 BPM",
-          "url": "https://www.youtube.com/watch?v=85ZptB9kgaM"
+          "titulo": "Drum Lesson - Advanced Grooves: Inverted Hot Sauce",
+          "url": "https://www.youtube.com/watch?v=yzjnW0MLRW4"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
+          "titulo": "The Coolest Groove on YouTube | Drum Lesson w/ OrlandoDrummer",
           "url": "https://www.youtube.com/watch?v=S9G5Y1vElrs"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
+          "titulo": "FUNK Drum Loop Practice Tool 100bpm",
           "url": "https://www.youtube.com/watch?v=2ewJbvsAiLI"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "The 6 SHUFFLE Groove",
+          "url": "https://www.youtube.com/watch?v=NGqaSfFcJBU"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "Bossa Nova (Hi-hat) - Drum Groove",
+          "url": "https://www.youtube.com/watch?v=mZ_mEmaJu98"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+          "titulo": "5 Latin Grooves Every Drummer Should Know (Juan Carlito Mendoza)",
+          "url": "https://www.youtube.com/watch?v=TamYTrc19LQ"
         },
         {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "DRUM LESSON - Triplet Groove - by Mike Johnston",
+          "url": "https://www.youtube.com/watch?v=yiNu7PJ_okk"
         }        
       ]
     },
     {
       "titulo": "Gospel Chops",
-      "cor": "#00C86F",
+      "cor": "#F5BB00",
       "link_extra": {
-        "text": "Cursos de Back End na Alura",
+        "text": "Frases que vão mudar sua forma de tocar",
         "url": "https://www.alura.com.br/cursos-online-programacao"
       },
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "titulo": "COMO FAZER GOSPEL CHOPS NA BATERIA (aula 1) | Curso Pearl",
+          "url": "https://www.youtube.com/watch?v=dYjD0lIUdKY"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          "titulo": "COMO FAZER GOSPEL CHOPS NA BATERIA (aula 2) | Curso Pearl",
+          "url": "https://www.youtube.com/watch?v=3S6wps_Jm8g"
         },
         {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+          "titulo": "COMO FAZER GOSPEL CHOPS NA BATERIA (aula 3) | Curso Pearl",
+          "url": "https://www.youtube.com/watch?v=-gcMh8ofV2I"
         },
         {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+          "titulo": "10 Gospel Chop Licks to Shred with - Drum Lesson By Nick Bukey Advanced Sextuplet Chops",
+          "url": "https://www.youtube.com/watch?v=zVIMW6MHTts"
         }, 
         {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "GOSPEL CHOPS - INICIACIÓN",
+          "url": "https://www.youtube.com/watch?v=JRrFOdPKEGk"
         }
       ]
     },
     {
       "titulo": "Exercícios",
-      "cor": "#9cd33b",
+      "cor": "#DC1A28",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
+        "text": "Pratique, pratique e pratique",
         "url": "https://www.alura.com.br/formacao-data-science"
       },
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "TÉCNICA DE PIVOT - AULA COMPLETA COM EXERCÍCIOS",
+          "url": "https://www.youtube.com/watch?v=KVTeaJWUuq8"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "Fastest Way To Get Faster: Paradiddle Madness - Drum Lesson",
+          "url": "https://www.youtube.com/watch?v=URG4sD7HjwA"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "Drumming Warm-up (Intermediate)",
+          "url": "https://www.youtube.com/watch?v=Qz_SCuoPVWk"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "Guided Hand Workout for Drummers | ABBDRUMS.COM",
+          "url": "https://www.youtube.com/watch?v=kkaYbbjfH7U"
         }
       ]
     },
     {
       "titulo": "Vídeo Aula",
-      "cor": "orange",
+      "cor": "#06A77D",
       "videos": [
         {
           "titulo": "Interestellar",
@@ -123,9 +123,9 @@
     },
     {
       "titulo": "Covers",
-      "cor": "red",
+      "cor": "#05299E",
       "link_extra": {
-        "text": "Formação de Jogos na Alura",
+        "text": "Covers de músicas que você sempre quis ver",
         "url": "https://www.alura.com.br/formacao-jogos-unity"
       },
       "videos": [
@@ -152,10 +152,10 @@
       ]
     },
     {
-      "titulo": "Aprendendo a aprender tecnologia",
-      "cor": "#6b5be2",
+      "titulo": "Viradas",
+      "cor": "#261447",
       "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
+        "text": "Viradas que vão melhorar seu estilo de tocar",
         "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
       },
       "videos": [
