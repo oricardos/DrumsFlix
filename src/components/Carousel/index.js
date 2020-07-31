@@ -37,6 +37,8 @@ function Carousel({
                 videoTitle={video.titulo}
                 videoURL={video.url}
                 categoryColor={categoryColor}
+                onMouseOver={event => event.target.play()}
+                onMouseOut={event => event.target.pause()}
               />
             </SliderItem>
           );
