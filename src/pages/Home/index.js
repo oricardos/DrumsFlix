@@ -16,28 +16,28 @@ function Home() {
         videoDescription={"#DrumsFlix"}
       />
 
-      <Carousel 
+      <Carousel
         ignoreFirstVideo
         category={dadosIniciais.categorias[0]}
       />
 
-      <Carousel 
+      <Carousel
         category={dadosIniciais.categorias[1]}
       />
 
-      <Carousel 
+      <Carousel
         category={dadosIniciais.categorias[2]}
       />
 
-      <Carousel 
+      <Carousel
         category={dadosIniciais.categorias[3]}
       />
 
-      <Carousel 
+      <Carousel
         category={dadosIniciais.categorias[4]}
       />
 
-      <Carousel 
+      <Carousel
         category={dadosIniciais.categorias[5]}
       />
 
